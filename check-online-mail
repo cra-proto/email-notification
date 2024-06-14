@@ -55,18 +55,18 @@
          });
       </script>
       <main role="main" property="mainContentOfPage" class="container">
-         <h1 property="name" id="wb-cont">Update your information with the CRA</h1>
-   <p>Inform the Canada Revenue Agency (CRA) about changes to your personal, business<!--, trust--> or charity information. This may include changes to your direct deposit or contact information, such as address, phone number or name changes.</p>
+         <h1 property="name" id="wb-cont">Check your CRA mail online</h1>
+   <p>Mail is a secure tool within the Canada Revenue Agency (CRA) My Account online service that lets you review certain correspondence items. Email notifications from the CRA let you know when important changes are made on your account and when you have new mail.</p>
 	    
      
                 <h2 class="wb-inv">Services and information</h2>
-<!--<h2>Personal information</h2>-->
+<!--<h2>Mail in CRA My Account</h2>-->
 
 		     <div class="wb-eqht row">
                    <div class="col-lg-4 col-md-6">
                       <!--  <h3><a href="https://test.canada.ca/cra-arc/jmlt333/update-info/change-address-phone.html">[Change your address <mark>or phone number</mark>]]</a></h3> -->
 			   <h3><a href="https://test.canada.ca/cra-arc/jmlt333/update-info/index-alt.html">Personal information</a></h3>
-                        <p>Change your address, phone number, email, marital status, or name</p>
+                        <p>Find and print your CRA correspondence online</p>
                     </div>
 				 <div class="col-lg-4 col-md-6">
                         <h3><a href="https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/changes-your-business.html">Business information</a></h3>
