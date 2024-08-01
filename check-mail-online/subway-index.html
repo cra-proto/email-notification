@@ -30,7 +30,8 @@
 <!-- Write closure template --> 
 <script type="text/javascript">
             var defTop = document.getElementById("def-top");
-            defTop.outerHTML = wet.builder.top({
+            defTop.outerHTML = wet.builder.top
+		({
             	lngLinks: [{
             		lang: "fr",
             		href: "",
@@ -39,18 +40,18 @@
             	breadcrumbs: [{
             		title: "Canada.ca",
             		href: "https://www.canada.ca/en.html"
-            		},{
-                     		title: "Canada Revenue Agency",
-                     		href: "https://www.canada.ca/en/revenue-agency.html"
+            	},{
+                     	title: "Canada Revenue Agency",
+                     	href: "https://www.canada.ca/en/revenue-agency.html"
                      
                	} ],
             	search: true,
             	siteMenu: true,
             	showPreContent: true
-            });
+           	 });
          </script>
 
-<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
+<main role="main" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
   <div class="mwsgeneric-base-html parbase section">
     <h1 property="name" id="wb-cont" class="gc-thickline">⁠Check CRA mail online</h1>
     
